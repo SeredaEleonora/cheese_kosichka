@@ -1,16 +1,10 @@
 # cheese_kosichka
 
-A new Flutter project.
+Я создала новую страничку с нуля, потому что многому научилась за всё это время.
 
-## Getting Started
+## Тут пока мало что есть, но
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* уже есть локализация с кнопочкой, которая меняет русский на английский
+* тэги вместо текста (я понимаю, что по своей сути аватарка – это тоже бэк, но мне так нравится эта сырная косичка)
+* можно написать комментарий (я посмотрела на ютубе, как это сделать, но не разобралась, как сохранять сами комментарии, что ж, в другой раз)
+* лайки, разумеется, отображаются и суммируются
